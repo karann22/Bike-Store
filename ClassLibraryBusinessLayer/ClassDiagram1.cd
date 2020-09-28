@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryBusinessLayer.Bikes" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAFAAAAAAACAAAEAgAAAAAAAEAAAQCAAAAAAAAAAAE=</HashCode>
+      <FileName>Bikes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="color" />
+    </ShowAsAssociation>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="ClassLibraryBusinessLayer.Bus.MountainBikes" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIABQAAAAQEAAAAAAABAECAAABAggAAwAIAAAE=</HashCode>
+      <FileName>MountainBikes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="headlight" />
+      <Field Name="suspension" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBusinessLayer.Bus.RoadBikes" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIABQAAAAAEAAAAAAABAGAAAAAgAgBAgAIAQAE=</HashCode>
+      <FileName>RoadBikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryBusinessLayer.Bus.Validator" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibraryBusinessLayer.Bus.IMovable" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibraryBusinessLayer.Bus.EnumColor" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAACA=</HashCode>
+      <FileName>EnumColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryBusinessLayer.Bus.EnumHeadlight" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>EnumHeadlight.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryBusinessLayer.Bus.EnumSuspension" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>EnumSuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

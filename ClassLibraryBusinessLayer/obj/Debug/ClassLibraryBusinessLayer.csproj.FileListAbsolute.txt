@@ -1,0 +1,8 @@
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryBusinessLayer\bin\Debug\ClassLibraryBusinessLayer.dll
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryBusinessLayer\bin\Debug\ClassLibraryBusinessLayer.pdb
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryBusinessLayer\obj\Debug\ClassLibraryBusinessLayer.dll
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryBusinessLayer\obj\Debug\ClassLibraryBusinessLayer.pdb
+C:\Users\Hp-User\Desktop\C#\MyBikes_1932909\ClassLibraryBusinessLayer\bin\Debug\ClassLibraryBusinessLayer.dll
+C:\Users\Hp-User\Desktop\C#\MyBikes_1932909\ClassLibraryBusinessLayer\bin\Debug\ClassLibraryBusinessLayer.pdb
+C:\Users\Hp-User\Desktop\C#\MyBikes_1932909\ClassLibraryBusinessLayer\obj\Debug\ClassLibraryBusinessLayer.dll
+C:\Users\Hp-User\Desktop\C#\MyBikes_1932909\ClassLibraryBusinessLayer\obj\Debug\ClassLibraryBusinessLayer.pdb

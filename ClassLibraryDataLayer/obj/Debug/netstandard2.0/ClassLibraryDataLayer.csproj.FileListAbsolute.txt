@@ -1,0 +1,11 @@
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\bin\Debug\netstandard2.0\ClassLibraryDataLayer.deps.json
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\bin\Debug\netstandard2.0\ClassLibraryDataLayer.dll
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\bin\Debug\netstandard2.0\ClassLibraryDataLayer.pdb
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\bin\Debug\netstandard2.0\ClassLibraryBusinessLayer.dll
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\bin\Debug\netstandard2.0\ClassLibraryBusinessLayer.pdb
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.AssemblyInfoInputs.cache
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.AssemblyInfo.cs
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.csproj.CopyComplete
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.dll
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.pdb
+C:\Users\Hp-User\Desktop\C#\Try2\ClassLibraryDataLayer\obj\Debug\netstandard2.0\ClassLibraryDataLayer.csprojAssemblyReference.cache
